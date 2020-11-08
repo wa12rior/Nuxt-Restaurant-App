@@ -18,3 +18,11 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Demo App version
+
+[Netlify link](https://restaurant-app-fe-masters.netlify.app/)
+
+## Credits
+
+Frontend masters course project.
