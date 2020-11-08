@@ -1,4 +1,4 @@
-# nuxtfoodapp
+# Nuxt Restaurant App
 
 ## Build Setup
 
